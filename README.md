@@ -1,8 +1,8 @@
 # Sistema Web Interactivo para Hostales
 
 
-https://github.com/user-attachments/assets/da30053d-cc2a-4461-ac96-6699388b492c
-<img width="2065" height="1240" alt="image" src="https://github.com/user-attachments/assets/1c60b522-898d-44da-b153-e03d83b428c0" /><img width="1931" height="801" alt="image" src="https://github.com/user-attachments/assets/a99241e9-db1b-4a6d-bd34-4f1b782cd387" />
+<video src="https://github.com/user-attachments/assets/da30053d-cc2a-4461-ac96-6699388b492c" width="100%" controls>
+</video><img width="2065" height="1240" alt="image" src="https://github.com/user-attachments/assets/1c60b522-898d-44da-b153-e03d83b428c0" /><img width="1931" height="801" alt="image" src="https://github.com/user-attachments/assets/a99241e9-db1b-4a6d-bd34-4f1b782cd387" />
 <img width="1811" height="988" alt="image" src="https://github.com/user-attachments/assets/710272bf-4d7f-4f90-97c2-bddb2e0ec436" />
 
 
